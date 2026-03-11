@@ -1,0 +1,5 @@
+{
+  "name": "Amaty Centro Estetico - Redesign",
+  "description": "Un'esperienza web moderna ed elegante per il Centro Estetico Amaty, focalizzata sulla conversione e sul benessere.",
+  "requestFramePermissions": ["geolocation"]
+}
